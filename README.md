@@ -28,7 +28,7 @@
 <a href="https://www.doulos.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/doulos/doulos-original-wordmark.svg" alt="doulos" width="40" height="40"/> </a>
 
 </a> 
-<a href="https://www.doubleclick.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/doubleclick/doubleclick-original-wordmark.svg" alt="Devc++" width="40" height="40"/> </a>
+<a href="https://www.bloodshed.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bloodshed/bloodshed-original-wordmark.svg" alt="Devc++" width="40" height="40"/> </a>
 
 
 <br>
