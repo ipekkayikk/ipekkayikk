@@ -17,11 +17,22 @@
 <h3 align="left">Skills: Java | Selenium | JUnit | TestNG | Cucumber | Git - GitHub | Html - Css | JIRA | PostgreSQL | LAMBDA | JDBC | API | </h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
+ 
+
+<h3 align="center">💻Elektronik devre tasarımı ve yazılımı üzerinde çalışıyorum</h3> 
+
+
+
+
 </a> 
 <a href="https://www.lapcenter.com/software/lapcenter" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lapcenter/lapcenter-original-wordmark.svg" alt="proteus" width="40" height="40"/> </a>
 
+
+
 </a> 
-<a href="https://www.xilinx.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xilinx/xilinx-original-wordmark.svg" alt="Vivado" width="40" height="40"/> </a>
+<a href="https://www.xilinx.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xilinx/xilinx-original-wordmark.svg" alt="Vivado" width="40" height="40"/> </a> 
+
+
 
 
 </a> 
