@@ -21,7 +21,7 @@
 <a href="https://www.lapcenter.com/software/lapcenter" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lapcenter/lapcenter-original-wordmark.svg" alt="proteus" width="40" height="40"/> </a>
 
 </a> 
-<a href="https://www.xilinx.com/software/xilinx" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xilinx/xilinx-original-wordmark.svg" alt="Vivado" width="40" height="40"/> </a>
+<a href="https://www.xilinx.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xilinx/xilinx-original-wordmark.svg" alt="Vivado" width="40" height="40"/> </a>
 
 
 
