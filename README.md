@@ -27,10 +27,6 @@
 </a> 
 <a href="https://www.doulos.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/doulos/doulos-original-wordmark.svg" alt="doulos" width="40" height="40"/> </a>
 
-<a href="https://td.doubleclick.net/td/ga/rul?tid=G-YPDW4B4ZSV&amp;gacid=1666778321.1713292611&amp;gtm=45je4730v878431876za200&amp;dma=0&amp;gcd=13l3l3l3l1&amp;npa=0&amp;pscdl=noapi&amp;aip=1&amp;fledge=1&amp;frm=0&amp;z=1468327802" style="display: none; visibility: hidden;"> DevC++
-</div>
-
-
 <br>
 
  <div align="center"> 
