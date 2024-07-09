@@ -18,8 +18,20 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
 </a> 
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/> </a>
- 
+<a href="https://www.lapcenter.com/software/lapcenter" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lapcenter/lapcenter-original-wordmark.svg" alt="proteus" width="40" height="40"/> </a>
+
+</a> 
+<a href="https://www.download.amd.com/software/download.amd" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/download.amd/download.amd-original-wordmark.svg" alt="Vivado" width="40" height="40"/> </a>
+
+
+
+
+
+
+
+
+
+
 
 
 
